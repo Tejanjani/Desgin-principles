@@ -1,4 +1,4 @@
-# kiran_design_principles
+# tejanjani_design_principles
 Epam Home Task-3 Design Principles.
 
 Implementing Design principles in the Calculator App.
